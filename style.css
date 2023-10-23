@@ -13,6 +13,13 @@ body{
     padding:  0 10px;
     background: #e3f2fd;
 }
+.name{
+    color: #fff;
+    text-align: center;
+    /* padding:  0 10px; */
+    padding: 5px ;
+    
+}
 .wrapper{
     
     border-radius: 20px;
@@ -111,7 +118,7 @@ header .column span {
 .piano-keys .key.hide span {
     display: none;
 }
-@media screen and (max-width: 815) {   
+@media screen and (max-width: 915) {   
 .wrapper{
     padding: 25px;
 }
